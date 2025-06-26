@@ -36,19 +36,12 @@ This project follows Jamstack principles:
 
 ```mermaid
 graph TD
-    A[CMS User @ /admin] -- Edits & Publishes --> B(Decap CMS);
-    B -- Saves as Markdown via Git Gateway --> C{GitHub Repo (decap-cms branch)};
-    C -- Triggers Webhook --> D[Netlify];
-    D -- Builds Site (npm run build) --> E[Reads Markdown from content/];
-    E -- Generates Static HTML/CSS/JS --> F[Netlify Deploys to CDN];
-    F -- Serves Site --> G[Website Visitor];
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style B fill:#f9f,stroke:#333,stroke-width:2px
-    style C fill:#f9f,stroke:#333,stroke-width:2px
-    style D fill:#9cf,stroke:#333,stroke-width:2px
-    style E fill:#9cf,stroke:#333,stroke-width:2px
-    style F fill:#9cf,stroke:#333,stroke-width:2px
-    style G fill:#9cf,stroke:#333,stroke-width:2px
+    A["CMS User @ /admin"] -- "Edits & Publishes" --> B("Decap CMS");
+    B -- "Saves as Markdown via Git Gateway" --> C{"GitHub Repo (decap-cms branch)"};
+    C -- "Triggers Webhook" --> D["Netlify"];
+    D -- "Builds Site (npm run build)" --> E["Reads Markdown from content/"];
+    E -- "Generates Static HTML/CSS/JS" --> F["Netlify Deploys to CDN"];
+    F -- "Serves Site" --> G["Website Visitor"];
 ```
 
 ## 3. Project Structure Highlights
