@@ -93,8 +93,18 @@ export const getStaticProps: GetStaticProps = async () => {
       return dateB.getTime() - dateA.getTime();
     });
 
+    // Serialize date objects to strings
+    const serializableEpisodes = episodes.map((episode) => ({
+      ...episode,
+      date: new Date(episode.date).toISOString(),
+    }));
+
     return {
-      props: { episodes, companies, testimonials },
+      props: {
+        episodes: serializableEpisodes,
+        companies,
+        testimonials,
+      },
       revalidate: 3600, // Revalidate after 1 hour (3600 seconds)
     };
   } catch (error) {
