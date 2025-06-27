@@ -1,6 +1,6 @@
 ---
 title: "Go Fund Yourself: Clean Energy and Montana Ziplining"
-date: 2025-03-06T17:05:00.000Z
+date: 2025-03-06T18:10:00.000Z
 description: We love clean energy and adrenaline rushes. Tuleva is driving the
   clean energy revolution with sustainable, eco-friendly materials, while
   Flathead Ziplines delivers epic thrills with some of the fastest zip lines
