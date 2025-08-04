@@ -1,6 +1,6 @@
 ---
 title: "GetFenx & Riemann Computing: Life‑Saving Fentanyl Tests & Revolutionary
-  Data Compression | S1, Ep16"
+  Data Compression "
 date: 2025-05-18T20:00:00.000-04:00
 description: >-
   GetFenx is on a mission to stop the 100,000 annual deaths from fentanyl—and to
