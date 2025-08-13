@@ -88,7 +88,14 @@ const NewestEpisodes: React.FC<NewestEpisodesProps> = ({ episodes }) => {
                 <div className="relative">
                   <div className="aspect-video">
                     <Image
-                      src={episode.image || "/img/episode-coming-soon.png"}
+                      src={
+                        episode.image
+                          ? episode.image.startsWith("http") ||
+                            episode.image.startsWith("/")
+                            ? episode.image
+                            : `/${episode.image}`
+                          : "/img/episode-coming-soon.png"
+                      }
                       alt={episode.title}
                       className="object-cover"
                       fill
