@@ -42,3 +42,44 @@ collections:
       - { label: "Title (Person's title)", name: "title", widget: "string" }
       - { label: "Quote", name: "quote", widget: "markdown" }
       - { label: "Picture", name: "picture", widget: "image" }
+  - name: "issuer_arrangements"
+    label: "Issuer Arrangements"
+    folder: "content/issuer_arrangements"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Issuer Name", name: "issuerName", widget: "string" }
+      - {
+          label: "Compensation Arrangement",
+          name: "compensationArrangement",
+          widget: "text",
+        }
+      - {
+          label: "Prior Relationship with Issuer(s)",
+          name: "priorRelationship",
+          widget: "text",
+        }
+  - name: "titan_arrangements"
+    label: "Titan Arrangements"
+    folder: "content/titan_arrangements"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Titan Name", name: "titanName", widget: "string" }
+      - { label: "Issuer Name", name: "issuerName", widget: "string" }
+      - {
+          label: "Compensation Arrangement",
+          name: "compensationArrangement",
+          widget: "text",
+        }
+      - {
+          label: "Prior Relationship with Issuer(s)",
+          name: "priorRelationship",
+          widget: "text",
+        }
+      - {
+          label: "No Securities Advice Disclaimer",
+          name: "noSecuritiesAdvise",
+          widget: "text",
+          default: "At no time does [Titan] [or [insert affiliate name(s) if applicable]] provide investment advice, endorsement, analysis, or recommendations with respect to securities.",
+        }
