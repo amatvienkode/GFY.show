@@ -59,6 +59,7 @@ collections:
           name: "priorRelationship",
           widget: "text",
         }
+      - { label: "EDGAR Filings", name: "edgarFilings", widget: "string" }
   - name: "titan_arrangements"
     label: "Titan Arrangements"
     folder: "content/titan_arrangements"

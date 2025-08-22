@@ -11,6 +11,7 @@ export interface IssuerArrangement {
   compensationArrangement: string;
   priorRelationship: string;
   noSecuritiesAdvise: string;
+  edgarFilings: string;
 }
 
 interface Props {
@@ -170,6 +171,21 @@ const IssuerArrangementsPage = ({ arrangements, error }: Props) => {
                     </div>
                     <div className=" mt-1">
                       {arrangement.noSecuritiesAdvise}
+                    </div>
+                    <div>
+                      <span className="font-bold block">EDGAR Filings:</span>
+                      {arrangement.edgarFilings ? (
+                        <a
+                          href={arrangement.edgarFilings}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="!block underline"
+                        >
+                          <span className="mt-1">LINK</span>
+                        </a>
+                      ) : (
+                        <span className="mt-1">—</span>
+                      )}
                     </div>
                   </div>
                 </div>
