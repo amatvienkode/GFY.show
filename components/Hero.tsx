@@ -22,11 +22,11 @@ const navItems = [
     name: "Apply",
     link: "#apply",
   },
-  {
-    name: "Live on Lookhu",
-    link: "https://lookhu.tv/channel/go-fund-yourself",
-    target: "_blank",
-  },
+  // {
+  //   name: "Live on Lookhu",
+  //   link: "https://lookhu.tv/channel/go-fund-yourself",
+  //   target: "_blank",
+  // },
 ];
 
 const HeroSection = () => {
@@ -45,7 +45,7 @@ const HeroSection = () => {
               key={index}
               href={item.link}
               className="text-sm font-semibold tracking-widest uppercase md:text-base lg:text-lg hover:underline"
-              target={item.target}
+              // target={item.target}
             >
               {item.name}
             </a>
