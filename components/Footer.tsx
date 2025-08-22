@@ -7,11 +7,11 @@ const links = [
   { text: "Companies", href: "#companies" },
   { text: "Reviews", href: "#reviews" },
   { text: "Apply", href: "#apply" },
-  {
-    text: "Live on Lookhu",
-    href: "https://lookhu.tv/channel/go-fund-yourself",
-    target: "_blank",
-  },
+  // {
+  //   text: "Live on Lookhu",
+  //   href: "https://lookhu.tv/channel/go-fund-yourself",
+  //   target: "_blank",
+  // },
 ];
 
 const Footer = () => {
@@ -32,7 +32,7 @@ const Footer = () => {
               <a
                 href={link.href}
                 className="hover:underline"
-                target={link.target}
+                // target={link.target}
               >
                 {link.text}
               </a>
