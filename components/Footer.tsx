@@ -7,6 +7,8 @@ const links = [
   { text: "Companies", href: "#companies" },
   { text: "Reviews", href: "#reviews" },
   { text: "Apply", href: "#apply" },
+  { text: "EDGAR Filings", href: "/edgar-filings" },
+  { text: "CPCI", href: "/cpci" },
   // {
   //   text: "Live on Lookhu",
   //   href: "https://lookhu.tv/channel/go-fund-yourself",
