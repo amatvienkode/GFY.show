@@ -12,7 +12,7 @@ const titans = [
     title: "Leader in Telecom & Technology",
     position: "Founder & CEO @ Verb",
     description:
-      "From successful New York City attorney to telecom disruptor, investor, and serial entrepreneur who sold his first start-up for more than $200 million; he's currently founder and CEO of the Global Media Division, and MARKET.live, a tech start-up disrupting the livestream shopping sector.",
+      "From successful New York City attorney to technology disruptor, investor, and serial entrepreneur, who sold his first start- up for more than $200 million; he's currently Founder & CEO of Global Digital Media at NASDAQ-listed TON Strategy Co (TONX).",
     imageSrc: "/img/rory.png",
     color: "#0024be",
     social: [
@@ -162,5 +162,6 @@ const MeetTheTitans = () => {
 };
 
 export default MeetTheTitans;
+
 
 
