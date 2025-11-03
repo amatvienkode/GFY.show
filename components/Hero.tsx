@@ -45,16 +45,17 @@ const HeroSection = () => {
       />
       <div className="flex flex-col items-center px-6 mx-auto text-center max-w-7xl">
         <nav className="flex flex-wrap justify-center max-w-5xl mt-10 md:mt-12 gap-y-4 gap-x-12">
-          {navItems.map((item, index) => (
-            <a
-              key={index}
-              href={item.link}
-              className="text-sm font-semibold tracking-widest uppercase md:text-base lg:text-lg hover:underline"
-              // target={item.target}
-            >
-              {item.name}
-            </a>
-          ))}
+         {navItems.map((item, index) => (
+  <a
+    key={index}
+    href={item.link}
+    target={item.newTab ? "_blank" : "_self"}
+    rel={item.newTab ? "noopener noreferrer" : undefined}
+    className="text-sm font-semibold tracking-widest uppercase md:text-base lg:text-lg hover:underline"
+  >
+    {item.name}
+  </a>
+))}
         </nav>
         <Image
           src="/img/logo.svg"
@@ -102,6 +103,7 @@ const HeroSection = () => {
 };
 
 export default HeroSection;
+
 
 
 
