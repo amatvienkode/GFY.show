@@ -16,7 +16,7 @@ const navItems = [
   },
    {
     name: "Sponsorship",
-    link: "https://www.sponsor.gofundyourelf.show",
+    link: "https://www.sponsor.gofundyourself.show/",
   },
   {
     name: "Reviews",
@@ -101,4 +101,5 @@ const HeroSection = () => {
 };
 
 export default HeroSection;
+
 
