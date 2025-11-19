@@ -1,6 +1,6 @@
 ---
 titanName: Rory Cutaia
-issuerName: None at this time
+issuerName: None as of November 11, 2025
 compensationArrangement: Rory Cutaia receives compensation for his role as a
   Titan on the Go Fund Yourself show. No equity or ongoing compensation
   arrangements exist with individual companies featured on episodes.
