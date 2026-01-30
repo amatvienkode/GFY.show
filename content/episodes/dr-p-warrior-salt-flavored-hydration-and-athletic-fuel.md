@@ -11,5 +11,5 @@ description: >-
 
   Founder Eli Hamergi is offering athletes a cleaner, smarter way to hydrate, powered by real ingredients and zero fluff. But being a one-man show has its limits. The Titans push him to raise more capital and tighten his social strategy so Salt Warrior can finally scale and lead the charge in purposeful hydration.
 image: img/mq2-4-.webp
-link: https://youtu.be/9AjPBuGdd4E
+link: https://www.cheddar.com/media/go-fund-yourself-the-hydration-revolution/
 ---
