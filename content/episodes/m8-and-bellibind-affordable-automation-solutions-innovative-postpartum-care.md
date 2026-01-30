@@ -8,5 +8,5 @@ description: M8 Systems is dedicated to delivering affordable automation
   software, and cloud capabilities to ensure exceptional quality and user
   experience.
 image: img/mq2-1-.webp
-link: https://youtu.be/lPP5me3cm8A
+link: https://www.cheddar.com/media/go-fund-yourself-innovation-that-supports-both-land-and-life/
 ---
