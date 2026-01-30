@@ -13,5 +13,5 @@ description: >-
 
   Founder Angel Mosley is developing Cyfire.AI, an AI-powered tool that breaks down threats clearly so teams can stay focused on running their business. It’s still in development, but the numbers are strong, and her mission is clear: protect the underdogs.
 image: img/mq2-2-.webp
-link: https://youtu.be/w57K4hejOzE
+link: https://www.cheddar.com/media/go-fund-yourself-tech-that-travels/
 ---
