@@ -11,5 +11,5 @@ description: >-
 
   With design that’s sleek, soft-touch, and packed with real power, up to 140W charging for 3 devices, MAGFAST Air Pro is turning heads. After already raising $1.8M, this brand is on fire, and the Titans can’t even pick a favorite product. But which one will drive MAGFAST to the front of the tech race?
 image: img/mq3-4-.webp
-link: https://youtu.be/cA6WztYliWA
+link: https://www.cheddar.com/media/go-fund-yourself-need-a-recharge-start-here/
 ---
