@@ -9,5 +9,5 @@ description: >-
 
   Inspired by Sesame Street’s transformative impact on Math and Reading, our mission is to revolutionize kids' empowerment and personal development by producing high-quality educational entertainment, apps, and games to guide kids through this critical time.
 image: img/mq3-3-.webp
-link: https://youtu.be/UIr7Kth26gM
+link: https://www.cheddar.com/media/go-fund-yourself-changing-the-game-for-kids-the-hearing-impaired/
 ---
