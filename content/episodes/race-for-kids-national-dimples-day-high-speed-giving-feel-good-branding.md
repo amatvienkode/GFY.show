@@ -14,5 +14,5 @@ description: >-
 
   National Dimes Day is turning one irresistible feature into a global celebration with National Dimples Day, July 9. This cheeky lifestyle brand mixes playful merch, viral content, and bold community-building around dimples (yes, even the ones on your lower back). From tees and hats to holiday campaigns and celeb shoutouts, Dimples LLC is building a culture of joy, confidence, and connection. The founder has charisma, a strong concept, and serious momentum.
 image: img/mq1-1-.webp
-link: https://youtu.be/6EeoYDW-TZI
+link: https://www.cheddar.com/media/go-fund-yourself-from-big-dreams-to-big-smiles/
 ---
