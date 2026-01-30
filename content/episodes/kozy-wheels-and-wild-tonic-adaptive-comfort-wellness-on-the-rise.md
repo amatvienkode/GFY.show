@@ -14,5 +14,5 @@ description: >-
 
   Founder Holly Skaggs has run the numbers, cut costs (but not quality), and is already seeing top-tier interest from retailers like Costco. This is a product already stocked in celebrity fridges, clubhouses, and wellness circles. Wild Tonic isn’t slowing down, it’s ready for growth.
 image: img/mq2-3-.webp
-link: https://youtu.be/-qGOvpYwBv8
+link: https://www.cheddar.com/media/go-fund-yourself-sip-smart-and-roll-in-style/
 ---
