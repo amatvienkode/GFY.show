@@ -19,5 +19,5 @@ description: >-
 
   The founder comes in with numbers, vision, and solutions to help humans and AI work better, together.
 image: img/mq1.webp
-link: https://youtu.be/hgHyj9tHso0
+link: https://www.cheddar.com/media/go-fund-yourself-the-innovators-you-didnt-know-you-needed/
 ---
