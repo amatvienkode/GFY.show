@@ -11,5 +11,5 @@ description: >-
 
   No more calling around, tracking RSVPs, or scrambling for venues The. Bash App puts the entire planning process in one sleek space, syncing with your favorite platforms and making event organizing as smooth as sending a DM. Founder Steve built Bash to give power back to the host and with Titans already buzzing, early investors are lining up.
 image: img/mq3-2-.webp
-link: https://youtu.be/u7Heu1xrbIo
+link: https://www.cheddar.com/media/go-fund-yourself-make-party-planning-a-breeze-improve-your-pets-health/
 ---
