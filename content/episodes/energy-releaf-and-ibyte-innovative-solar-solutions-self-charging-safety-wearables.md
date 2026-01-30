@@ -7,5 +7,5 @@ description: Energy Releaf specializes in innovative solar solutions and BIPV
   sustainability is embodied in cutting-edge products like the Exodus micro
   inverter—pioneering the future of eco-friendly energy systems.
 image: img/mq2.webp
-link: https://youtu.be/uSFDv3VzaAE
+link: https://www.cheddar.com/media/go-fund-yourself-a-new-safety-wearable-making-solar-power-more-accessible/
 ---
