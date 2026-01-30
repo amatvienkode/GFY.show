@@ -6,5 +6,5 @@ description: We love clean energy and adrenaline rushes. Tuleva is driving the
   Flathead Ziplines delivers epic thrills with some of the fastest zip lines
   near Glacier National Park..
 image: https://i.ytimg.com/vi/N7cbPyVlCwI/maxresdefault.jpg
-link: https://www.youtube.com/watch?v=N7cbPyVlCwI
+link: https://www.cheddar.com/media/go-fund-yourself-clean-energy-and-montana-ziplining/
 ---
